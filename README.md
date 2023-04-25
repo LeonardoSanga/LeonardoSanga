@@ -4,8 +4,7 @@
 - 😅 Estudando algoritmos, estruturas de dados complexas, desenvolvimento Web, ciência de dados, ...
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSanga&show_icons=true&theme=midnight-purple"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanga&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
 </div>
 
 <div style="display: inline_block" align="center"><br>
