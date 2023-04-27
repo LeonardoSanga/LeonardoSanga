@@ -4,8 +4,8 @@
 - 😅 Estudando algoritmos, estruturas de dados complexas, desenvolvimento Web, ciência de dados, ...
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSanga&show_icons=true&count_private=true&hide_border=true&title_color=8b2bd9&icon_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Sanga GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanga&layout=compact&hide_border=true&langs_count=7&title_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSanga&show_icons=true&count_private=true&hide_border=true&title_color=8b2bd9&icon_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Sanga GitHub stats" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanga&layout=compact&hide_border=true&langs_count=7&title_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
