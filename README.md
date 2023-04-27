@@ -3,10 +3,9 @@
 - 📚 Sou graduando em Ciência da Computação na Universidade Federal de São Carlos - UFSCar
 - 😅 Estudando algoritmos, estruturas de dados complexas, desenvolvimento Web, ciência de dados, ...
 
-<div align="center">
-  <a href="https://github.com/LeonardoSanga">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSanga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanga&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoSanga&show_icons=true&count_private=true&hide_border=true&title_color=8b2bd9&icon_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Sanga GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSanga&layout=compact&hide_border=true&langs_count=7&title_color=8b2bd9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
