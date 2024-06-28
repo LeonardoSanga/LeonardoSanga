@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Leonardo Sanga
 
-- 📚 Sou graduando em Ciência da Computação na Universidade Federal de São Carlos - UFSCar
+- 📚 Sou graduando em Bacharelado em Sistemas de Informação no IFSP de Votuporanga - SP.
 - 😅 Estudando algoritmos, estruturas de dados complexas, desenvolvimento Web, ciência de dados, ...
 
 <div align="center">  
